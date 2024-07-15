@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CauchY75
-- 👀 I’m interested in Cyber Security, Networking, System Eningeering, Finanace and Machine Learning
+- 👀 I’m interested in Cyber Security, Networking, System Engineering, Finance and Machine Learning
 - 🌱 I’m currently learning Finanace and Machine Learning
 - 💞️ I’m looking to collaborate on Stock Price Forecasting Applications
 - 📫 I will find you :)
