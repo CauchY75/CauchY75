@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CauchY75
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Offensive Security
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Cyber Security, Networking, System Eningeering, Finanace and Machine Learning
+- 🌱 I’m currently learning Finanace and Machine Learning
+- 💞️ I’m looking to collaborate on Stock Price Forecasting Applications
+- 📫 I will find you :)
 
 <!---
 CauchY75/CauchY75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
